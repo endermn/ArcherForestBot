@@ -1,0 +1,16 @@
+Bow Grade:
+
+Wooden Bows have higher min/max stats than Steel and Stone Bows. Steel and Stone Bows have the same min/max stats 
+Wooden Bows:
+1 star: +1-6/+1-2
+2 star: +6-12/+2-4
+3 star: +12-18/+4-6
+4 star: +18-24/+6-8
+5 star: +24-30/+8-10
+
+Stone/Steel Bows:
+1 star: +1-4/+1-2
+2 star: +4-8/+2-3
+3 star: +8-12/+3-4
+4 star: +12-16/+4-5
+5 star: +16-20/+5-6 

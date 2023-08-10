@@ -1,0 +1,17 @@
+Every 1,000 meters in depth, the player will have a chance (NOT 100%) to get a bow.
+
+It cycles between 3 different bow grades from 1 star to 3 star. To further explain, here's data from two separate players mines:
+
+Player 1:
+Depth 1000m = 1 star bow
+Depth 2000m = 2 star bow
+Depth 3000m = no bow
+Depth 4000m = 3 star bow
+Depth 5000m = 1 star bow
+Depth 6000m = no bow
+
+Player 2:
+Depth 1000m = 1 star bow
+Depth 2000m = 2 star bow
+Depth 3000m = 3 star bow
+Depth 4000m = no bow

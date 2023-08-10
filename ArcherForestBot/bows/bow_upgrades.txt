@@ -1,0 +1,19 @@
+Bow Upgrades:
+
+Upgrade Type | Range
+
+Archer's own level | +1-5
+
+All archer's ATK | +5-25%
+
+Shoots AOE arrow by | +20-100%
+
+Archer's own ATK | +100-500%
+
+DMG against boss | +10-50%
+
+Double shot | +1-5
+
+Archer's own arrow level | +1-5
+
+DMG from monsters (Max 90%) | -5-25%

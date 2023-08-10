@@ -1,0 +1,5 @@
+Bow Types:
+
+Stone Bow = +X Produced Arrow Level (Equip on Bow's specific archer and use for Hermes team)
+Wooden Bow = +X Archer Own Arrow's Level (Best on Hedwig, Kawiil (if >lv4))
+Steel Bow = +X Archer Own Level (Best on Kawiil (if <lv4), Taurus, and also great for any archers with useful passives/abilities)

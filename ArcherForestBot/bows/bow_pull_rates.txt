@@ -1,0 +1,26 @@
+**Bow Grade Pull Rates:**
+
+**1 star:**
+Wooden Bow: 40%
+Stone Bow:      25%
+Steel Bow:       25%
+
+**2 star:**
+Wooden Bow: 4%
+Stone Bow:      2.5%
+Steel Bow:       2.5%
+ 
+**3 star:**
+Wooden Bow: 0.4%
+Stone Bow:      0.25%
+Steel Bow:       0.25%
+
+**4 star:**
+Wooden Bow: 0.04%
+Stone Bow:      0.025%
+Steel Bow:       0.025%
+
+**5 star:**
+Wooden Bow: 0.0034%
+Stone Bow:      0.0033%
+Steel Bow:       0.0033%
